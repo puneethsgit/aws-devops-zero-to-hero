@@ -51,8 +51,4 @@ Although public cloud adoption is growing, some organizations are moving back to
 5. Verify identity and complete the setup
 6. Access AWS Management Console and start exploring services
 
-## AWS Architecture Diagram
-![AWS Cloud Architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/AWS_Simple_Icons_Architecture.jpg/800px-AWS_Simple_Icons_Architecture.jpg)
-
----
 This document provides an introduction to cloud computing, AWS, and the latest industry trends. Start your cloud journey today!
