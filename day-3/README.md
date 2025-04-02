@@ -1,6 +1,6 @@
 # What will you learn 
 
-## Introduction to EC2:
+## Introduction to EC2: EC2 stands for **Elastic Compute Cloud**. 🚀
 
 What is EC2, and why is it important?
 
